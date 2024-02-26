@@ -36,6 +36,20 @@ h2 {
     border-radius: 5px;
 }
 
+.contact-info p {
+    margin: 10px 0;
+    font-size: 16px;
+}
+
+.contact-info a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+.contact-info a:hover {
+    text-decoration: underline;
+}
+
 ul {
     list-style-type: none;
     padding-left: 0;
